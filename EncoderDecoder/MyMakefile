@@ -1,0 +1,3 @@
+all program:Encoder.c write_encode.c
+	gcc Encoder.c write_encode.c -o size -lm
+
